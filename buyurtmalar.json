@@ -1,0 +1,94 @@
+[
+    {
+        "ism": "Отабек",
+        "telefon": "+998950625019",
+        "kitob": "Devona",
+        "user_id": 8527140768
+    },
+    {
+        "ism": "Uktamjonov Otabek",
+        "telefon": "8801975983170",
+        "manzil": null,
+        "kitob": "Devona",
+        "user_id": 8426141804
+    },
+    {
+        "ism": "Otabek Uktamjonov",
+        "telefon": "8801975983170",
+        "manzil": "Sux",
+        "kitob": "Devona",
+        "user_id": 8426141804
+    },
+    {
+        "ism": "Kamronbek Xakimov",
+        "telefon": "72727777",
+        "manzil": "Usjshshsjjw",
+        "kitob": "Devona",
+        "user_id": 6967252686,
+        "holat": "Kutilmoqda"
+    },
+    {
+        "ism": "Kamronbek Xakimov",
+        "telefon": "72727777",
+        "manzil": "Usjshshsjjw",
+        "kitob": "Devona",
+        "user_id": 6967252686,
+        "holat": "Kutilmoqda"
+    },
+    {
+        "ism": "Otabek uktamjonov",
+        "telefon": "770644487",
+        "manzil": "Moturidiy",
+        "kitob": "Devona",
+        "user_id": 5792769352,
+        "holat": "Kutilmoqda"
+    },
+    {
+        "ism": "Otabek",
+        "telefon": "+998950625019",
+        "manzil": "555",
+        "kitob": "Devona",
+        "narx": "52.000",
+        "user_id": 8527140768,
+        "holat": "✅ Tasdiqlandi"
+    },
+    {
+        "ism": "🔍 Kitob qidirish",
+        "telefon": "959769886808",
+        "manzil": "Hh",
+        "kitob": "O'tkan kunlar",
+        "narx": "25000 som",
+        "user_id": 6304659652,
+        "holat": "✅ Tasdiqlandi"
+    },
+    {
+        "ism": "Jasurbek",
+        "telefon": "996778087641",
+        "manzil": "Mahkal",
+        "kitob": "O'tkan kunlar",
+        "narx": "25000 som",
+        "user_id": 1180208103,
+        "holat": "❌ Bekor qilindi"
+    },
+    {
+        "ism": "Fayziyev Zohidjon",
+        "telefon": "998913975424",
+        "manzil": "Farg’ona Sux",
+        "kitob": "Devona",
+        "narx": "52.000",
+        "user_id": 7516027767,
+        "holat": "✅ Tasdiqlandi"
+    },
+    {
+        "ism": "Otabek Uktamjonov",
+        "telefon": "+998950625019",
+        "manzil": "Sux",
+        "kitob": "Mehrobdan chayon",
+        "narx": "22000 som",
+        "asl_narx": "22000 som",
+        "promo_kod": "",
+        "user_id": 8527140768,
+        "holat": "❌ Bekor qilindi",
+        "sana": "2026-05-25T10:06:38.549746"
+    }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "nomi": "O'tkan kunlar",
+    "muallif": "Abdulla Qodiriy",
+    "narx": "25000 som",
+    "sahifa": 430,
+    "janr": "Roman",
+    "mavjud": true,
+    "reyting": [],
+    "izohlar": []
+  },
+  {
+    "nomi": "Mehrobdan chayon",
+    "muallif": "Abdulla Qodiriy",
+    "narx": "22000 som",
+    "sahifa": 380,
+    "janr": "Roman",
+    "mavjud": true,
+    "reyting": [],
+    "izohlar": []
+  },
+  {
+    "nomi": "Sariq devni minib",
+    "muallif": "Xurshid Davron",
+    "narx": "18000 som",
+    "sahifa": 290,
+    "janr": "Fantastika",
+    "mavjud": false,
+    "reyting": [],
+    "izohlar": []
+  },
+  {
+    "nomi": "Devona",
+    "muallif": "Fotih Duman",
+    "narx": "52.000",
+    "sahifa": "201",
+    "janr": "Roman",
+    "mavjud": true,
+    "reyting": [
+      5,
+      5,
+      5
+    ],
+    "izohlar": []
+  }
+]
